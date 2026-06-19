@@ -22,8 +22,8 @@
 <div style="background-color:#111; padding:20px 25px; border-radius:12px;">
 
 <pre>
-◈  Class     →  Backend / Full-Stack 
-◈  Origin    →  Brazil 🇧🇷
+𒉭       i like coding 
+𒉭       a vagabond living
 </pre>
 
 </div>
